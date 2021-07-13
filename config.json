@@ -1,0 +1,18 @@
+{
+     "institution": "Escola Blablabla",
+     "yourname": "Joãozinho Silva Santos",
+     "title": "Título do trabalho",
+     "titlelines": 1,
+     "subtitle": "Subtítulo aqui",
+     "city": "São Paulo - SP",
+     "year": "2022",
+     "notetext": "Estudo de Caso apresentado à Escola Blablabla, como parte dos requisitos necessários ao blablabla do componente curricular de Blablabla.",
+     "notelines": 4,
+     "advisor": "Zezinho Silva Santos",
+     "dedicatory": 0,
+     "thanks": 0,
+     "epigraph": 0,
+     "resume": 1,
+     "abstract": 1,
+     "summary": 1
+ }
