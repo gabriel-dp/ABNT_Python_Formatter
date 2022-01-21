@@ -52,7 +52,7 @@ This program is the **solution of your problems**. Does it automatically.&nbsp;
 
 ---
 
-That's it! Just open the `demo.docx` file to view your new formated document.
+That's it! Just open the `demo.docx` file to view your new formatted document.
 
 <img width=550  src="./example.jpg">
 <img width=225 src="https://media.tenor.com/images/613bd7927e04bd41b580963e98843eaa/tenor.gif">
